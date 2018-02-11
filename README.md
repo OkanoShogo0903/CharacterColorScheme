@@ -2,7 +2,7 @@
 ## Discription
 vim color scheme for CUI
 
-![UI](https://github.com/OkanoShogo0903/BarrageGame/blob/master/image.jpg-large.jpg "イメージ画像")
+![UI](https://github.com/OkanoShogo0903/CharacterColorScheme/blob/master/renge.png "イメージ画像")
 
 ## Intro
 ~~~
