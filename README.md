@@ -1,11 +1,16 @@
 # CharacterColorScheme
-## discription
+## Discription
 vim color scheme for CUI
+
+![UI](https://github.com/OkanoShogo0903/BarrageGame/blob/master/image.jpg-large.jpg "イメージ画像")
 
 ## Intro
 ~~~
 colorcheme ***(なんかこうディレクトリ移動する)***/renge.vim
 ~~~
 
-## reference
+## Reference
 https://twitter.com/okanosyogo/status/962645654857072641
+
+## Author
+[製作者ツイッター](https://twitter.com/okanosyogo)
